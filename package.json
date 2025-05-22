@@ -2,7 +2,7 @@
   "name": "mi-rincon-consciente-frontend",
   "version": "1.0.0",
   "scripts": {
-    "start": "serve -s . -l $PORT"
+    "start": "serve -s dist-mi-rincon-consciente-front -l $PORT"
   },
   "dependencies": {
     "serve": "^14.1.2"
